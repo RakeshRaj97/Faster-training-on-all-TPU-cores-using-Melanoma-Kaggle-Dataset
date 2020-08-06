@@ -12,3 +12,6 @@ The main aim of this repository is to provide a highly reusable and easily custo
 Since it's an ongoing live competition, additional ensembling and other techniques will be released once the competition ends.
 
 
+Check out my recent Blog https://medium.com/@grakesh0301/speed-up-the-training-process-using-all-tpu-cores-at-once-deec797c2604
+
+
