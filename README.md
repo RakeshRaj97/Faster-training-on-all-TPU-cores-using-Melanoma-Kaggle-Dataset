@@ -7,11 +7,11 @@ The main aim of this repository is to provide a highly reusable and easily custo
 
 [data source] (https://www.kaggle.com/c/siim-isic-melanoma-classification)
 
-[current code] (https://www.kaggle.com/rocky03/effnet-pytorch-tpu) Note: I will release the fully functional code once the competition ends. One can use this as a reference to understand how to speed up the training using all TPU cores at once!
+[current code] (https://www.kaggle.com/rocky03/effnet-pytorch-tpu)
 
-Since it's an ongoing live competition, additional ensembling and other techniques will be released once the competition ends.
+This idea is experimental. One can use this as a reference to understand how to speed up the training using all TPU cores at once!
 
 
-Check out my recent Blog https://medium.com/@grakesh0301/speed-up-the-training-process-using-all-tpu-cores-at-once-deec797c2604
+For better understanding check out my blog post: https://medium.com/@grakesh0301/speed-up-the-training-process-using-all-tpu-cores-at-once-deec797c2604
 
 
